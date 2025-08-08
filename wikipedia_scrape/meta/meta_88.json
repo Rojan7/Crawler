@@ -1,0 +1,172 @@
+{
+  "page_id": 88,
+  "url": "https://en.wikipedia.org/wiki/Guy-wire",
+  "title": "Guy-wire - Wikipedia",
+  "content": [
+    {
+      "type": "image",
+      "section": "",
+      "filename": "image_848.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "image",
+      "section": "Guy-wire",
+      "filename": "image_849.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Guy-wire",
+      "content": "A guy-wire, guy-line, guy-rope, down guy, or stay, also called simply a guy, is a tensioned cable designed to add stability to a freestanding structure. They are used commonly for ship masts, radio masts, wind turbines, utility poles, and tents. A thin vertical mast supported by guy wires is called a guyed mast.  Structures that support antennas are frequently of a lattice construction and are called \"towers\".  One end of the guy is attached to the structure, and the other is anchored to the ground at some distance from the mast or tower base.  The tension in the diagonal guy-wire, combined with the compression and buckling strength of the structure, allows the structure to withstand lateral loads such as wind or the weight of cantilevered structures. They are installed radially, usually at equal angles about the structure, in trios and quads. As the tower leans a bit due to the wind force, the increased guy tension is resolved into a compression force in the tower or mast and a lateral force that resists the wind load. For example, antenna masts are often held up by three guy-wires at 120° angles. Structures with  predictable lateral loads, such as electrical utility poles, may require only a single guy-wire to offset the lateral pull of the electrical wires at a spot where the wires change direction.[1]"
+    },
+    {
+      "type": "text",
+      "section": "Guy-wire",
+      "content": "Conductive guy cables for radio antenna masts can catch and deflect radiation in unintended directions, so their electrical characteristics must be included in the design. Often the guy wire is divided by strain insulators into isolated sections whose lengths are not resonant with the transmission frequencies."
+    },
+    {
+      "type": "image",
+      "section": "Sailboat rigging",
+      "filename": "image_850.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Sailboat rigging",
+      "content": "The guys supporting a sailboat mast are called \"standing rigging\" and in modern boats are stainless steel wire rope.  Guys are rigged to the bow and stern, usually as a single guy.  Lateral guys attach to \"chain plates\" port and starboard attached to the hull. Multiple guys are usually installed with spreaders to help keep the mast straight (\"in column\")."
+    },
+    {
+      "type": "text",
+      "section": "Sailboat rigging",
+      "content": "Temporary guys are also used. A fore-guy is a line (rope) pulling on the free end of a spar. On a modern sloop-rigged sailboat with a symmetric spinnaker, the spinnaker pole is the spar most commonly controlled by one or more guys."
+    },
+    {
+      "type": "text",
+      "section": "Utility pole guy-wires",
+      "content": "Utility poles are buried in the ground and have sufficient strength to stand on their own; guys are needed on some poles only to support unbalanced lateral loads from the utility wires attached to them, or to resist ground movement. Guys are particularly needed on dead-end (anchor) poles, where a long straight section of wire line ends, or angles off in another direction. To protect the public against faults that might allow utility guy cables to become electrified, they usually have a ceramic strain insulator (\"Johnny ball\") or a fiberglass strain insulator inserted near the top, to keep dangerous voltages away from the lower end. The length near the ground is often encased in a yellow plastic reflector to make it more visible, so that people or vehicles do not run into it."
+    },
+    {
+      "type": "image",
+      "section": "Utility pole guy-wires",
+      "filename": "image_851.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Utility pole guy-wires",
+      "content": "In urban areas with pedestrian traffic around the pole, a variation called a sidewalk guy is often used: the guy line extends diagonally from the top of the pole to a spar brace extending out from the middle of the pole, then continues vertically to the ground. Thus, the bottom length of the guy is vertical and does not obstruct headroom, so a sidewalk can pass between the pole and the guy."
+    },
+    {
+      "type": "text",
+      "section": "Utility pole guy-wires",
+      "content": "An alternative to guy-wires sometimes used on dead-end utility poles is a push-brace pole, a diagonal pole with one end set in the ground and the other butting up against the vertical pole, opposite to where a guy cable would attach."
+    },
+    {
+      "type": "image",
+      "section": "Antenna mast guy-wires",
+      "filename": "image_852.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "image",
+      "section": "Antenna mast guy-wires",
+      "filename": "image_853.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "image",
+      "section": "Antenna mast guy-wires",
+      "filename": "image_854.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Antenna mast guy-wires",
+      "content": "Electromagnetic fields from the antennas complicate the design of guys that support mast antennas. Conductive metal guy-wires whose lengths are near to quarter wavelength multiples of the transmitted frequency can distort the radiation pattern of the antenna. This also applies to guy wires of neighboring masts or nearby metal structures. To prevent this, each guy wire is divided by strain insulators into multiple sections, each segment non-resonant at the transmitted wavelength. Cylindrical or egg-shaped porcelain \"Johnny ball\" insulators (also called \"egg insulators\") are usually used. Non-conductive guys of Kevlar fiber (Phillystran) or extruded fiberglass rod are frequently used to not disturb the radiation pattern of the antennas. The strength and low stretch properties of Kevlar fiber approaches that of steel. However, Kevlar is very susceptible to ultraviolet degradation, so it is enclosed in a UV resistant plastic sheath."
+    },
+    {
+      "type": "text",
+      "section": "Antenna mast guy-wires",
+      "content": "The individual sections of conductive guys can develop large charges of static electricity, especially on very tall masts. The voltage caused by this static electricity can be several times larger than that generated by the transmitter. In order to avoid dangerous and unpredictable discharges, the insulators must be designed to withstand this high voltage, which  on tall masts results in over-dimensioned backstage insulators. At each backstage insulator, a lightning arrestor in the form of an arc gap is required for the purpose of over-voltage protection in case of lightning strikes. The insulators and arrestors must be maintained carefully, because an insulator failure can result in a mast collapse. Egg insulators have the porcelain in compression and if it fails, the end loops of the guy wires are still intertwined."
+    },
+    {
+      "type": "image",
+      "section": "Antenna mast guy-wires",
+      "filename": "image_855.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Antenna mast guy-wires",
+      "content": "AM radio broadcast towers are often fitted with insulators at the mast base and the RF energy is fed at that point. Some are also insulated at the center for feeding the RF energy at that point. Wire rope guys are frequently used and segmented with insulators at several points. Extensive lightning protection is required for insulated towers."
+    },
+    {
+      "type": "text",
+      "section": "Antenna mast guy-wires",
+      "content": "On antennas for long-wave and VLF, the guys may serve an electrical function, either for capacitive lengthening of the mast or for feeding the mast with the radiation power. In these cases, the guys are fixed without an insulator on the mast, but there is at least one insulator in the guy if necessary. If guys are used for feeding the mast with high frequency power it is often possible to use a grounded mast. The power to the guys is fed via wires running from a tuning unit to the feed point on the guys."
+    },
+    {
+      "type": "image",
+      "section": "Crane tag lines",
+      "filename": "image_856.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Crane tag lines",
+      "content": "When operating a crane, guy wires, known as tag lines, may be connected to unwieldy payloads, allowing ground crew to control rotation and swaying while maintaining a safe distance."
+    },
+    {
+      "type": "text",
+      "section": "Firefighting",
+      "content": "They can stabilize aerial firefighting equipment, such as portable water tanks or observation towers, ensuring they remain secure during operations.[2] Additionally, guy wires may support temporary structures, like tents or command centers, set up near a fire scene, and secure communication equipment necessary for coordinating firefighting efforts. In situations where structures are at risk of collapse due to fire damage, guy wires can also help stabilize them temporarily while firefighters work to control the blaze. Guywires can also be used to raise an extension ladder in a technique called a church raise.[3]"
+    },
+    {
+      "type": "text",
+      "section": "Anchors",
+      "content": "In ground-anchored guys, the structure which attaches the guy-wire to the ground is called an anchor.[4] The anchor must be adequate to resist the maximum tensile load of the guy wires; both the dead load of the tension of the wire and the maximum possible live load due to wind.  Since the guy wire exerts its force at an angle, the anchor has both vertical and lateral (horizontal) forces on it.  The anchor relies on the lateral shear strength of the soil to resist the forces from all of the guys attached to it.  Several types of anchor are used:"
+    },
+    {
+      "type": "image",
+      "section": "Dead man anchors",
+      "filename": "image_857.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Dead man anchors",
+      "content": "In this type, a hole is excavated and an object with a large surface area is placed in it with the guy wire attached, and the hole is backfilled with earth or concrete.[4]    In the historical form of dead man anchor, a log is buried horizontally in a trench with the guy attached perpendicularly to its center.  Modern forms are the plate anchor, in which the guy is attached to a rod with an eyelet extending from the center of a steel plate buried diagonally, perpendicular to the angle of the guy.  In the concrete anchor, a diagonal rod with an eyelet extending in the guy direction is cemented into a hole filled with steel reinforced concrete.  A sufficiently massive concrete block on the surface of the ground can also be used as a dead man."
+    },
+    {
+      "type": "text",
+      "section": "Screw anchors",
+      "content": "This type consists of a rod with wide screw blades on the end and an eyelet on the other for the guy wire. It is screwed deep into the ground, at the same angle as the guy, by a truck-mounted drill machine.  These are commonly used as guy anchors for utility poles since they are quick to install with a truck mounted hydraulic powered auger drive."
+    },
+    {
+      "type": "text",
+      "section": "Expanding anchors",
+      "content": "A rod with a pivoted blade on the end is driven into the earth.[4]   When the guy wire is attached and tensioned, its force pulls the blade open, \"setting\" it into the soil.  These are often used by the military for rapid mast installations."
+    },
+    {
+      "type": "text",
+      "section": "Grouted anchors",
+      "content": "These are used in both soil and rock.[4]   A hole is drilled at the angle of the guy.   A steel anchor rod with an eye is inserted, and the hole around it is filled with a liquid grout consisting of concrete and an expansion agent or a structural epoxy.  When the grout hardens or expands, the anchor is secure."
+    },
+    {
+      "type": "text",
+      "section": "Design",
+      "content": "Guidance for the design of guys on guyed structures, such as lattice towers, guyed masts  and chimneys, is given a part of the Eurocode for structural design.[5]"
+    },
+    {
+      "type": "text",
+      "section": "Design",
+      "content": "Recommendations for the design of sailing craft rigging are available in an ISO standard.[6]"
+    },
+    {
+      "type": "text",
+      "section": "Guyed structures",
+      "content": "Historically, guyed structures have been some of the tallest man-made structures in the world. There are also many structures which consist of a freestanding bottom and a guyed top. These are either partially guyed towers or additionally guyed towers, the latter of which may be used temporarily to support tall buildings during their construction."
+    }
+  ]
+}

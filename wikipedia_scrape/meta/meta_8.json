@@ -1,0 +1,78 @@
+{
+  "page_id": 8,
+  "url": "https://en.wikipedia.org/wiki/Pot_still",
+  "title": "Pot still - Wikipedia",
+  "content": [
+    {
+      "type": "image",
+      "section": "",
+      "filename": "image_40.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "text",
+      "section": "Pot still",
+      "content": "A pot still is a type of distillation apparatus  or still used to distill liquors such as whisky or brandy. In modern (post-1850s) practice, they are not used to produce rectified spirit, because they do not separate congeners from ethanol as effectively as other distillation methods. Pot stills operate on a batch distillation basis (in contrast to column stills, which operate on a continuous basis). Traditionally constructed from copper, pot stills are made in a range of shapes and sizes depending on the quantity and style of spirit desired."
+    },
+    {
+      "type": "text",
+      "section": "Pot still",
+      "content": "Spirits distilled in pot stills top out between 60 and 80 percent alcohol by volume (ABV) after multiple distillations.[citation needed] Because of this relatively low level of ABV concentration, spirits produced by a pot still retain more of the flavour from the wash than distillation practices that reach higher ethanol concentrations."
+    },
+    {
+      "type": "text",
+      "section": "Pot still",
+      "content": "Under European law and various trade agreements, cognac (a protected term for a variety of brandy produced in the region around Cognac, France) and any Irish or Scotch whisky labelled as \"pot still whisky\" or \"malt whisky\" must be distilled using a pot still.[1][2][3]"
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "During first distillation, the pot still (or \"wash still\") is filled about two-thirds full of a fermented liquid (or wash) with an alcohol content of about 7–12%.[4][5][6] In the case of whisky distillation, the liquid used is a beer, while in the case of brandy production, it is a base wine. The pot still is then heated so that the liquid boils."
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "The liquid being distilled is a mixture of mainly water and alcohol, along with smaller amounts of other by-products of fermentation (called congeners), such as aldehydes and esters.[5] At sea level, alcohol (ethanol) has a normal boiling point of 78.4 °C (173.1 °F) while pure water boils at 100 °C (212 °F).[7] As alcohol has a lower boiling point, it is more volatile and evaporates at a higher rate than water. Hence the concentration of alcohol in the vapour phase above the liquid is higher than in the liquid itself."
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "During distillation, this vapour travels up the swan neck at the top of the pot still and down the lyne arm, after which it travels through the condenser (also known as the worm), where it is cooled to yield a distillate with a higher concentration of alcohol than the original liquid.[5] After one such stage of distillation, the resulting liquid, called \"low wines\", has a concentration of about 25–35% alcohol by volume."
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "These low wines can be distilled again in a pot still to yield a distillate with a higher concentration of alcohol.[6] In the case of many Irish whiskeys, the spirit is distilled for a third time. However, cognac and most single malt Scotch whiskies are distilled only twice."
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "A still used for the redistillation of already-distilled products (especially in the United States) is known as a doubler –  named after its approximate effect on the level of the distillation purity.[8][9] Distillers from the early 1800s with sufficient resources to operate both a primary still and a separate doubler would typically use a smaller still for the doubler (typically about half the capacity) than for the first distillation.[9]"
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "An alternative way to reach an increased distillation purity without a full second stage of distillation is to put another pot (often a passive pot –  i.e., without an external heat source) between the pot still and the cooling worm. Such a pot is known as a thumper –  named after the sound made by the vapour as it bubbles through a pool of liquid in the thumper.[10] The distinction between a thumper and a doubler is that a thumper receives its input as a vapour prior to cooling, while the intake of a doubler is an already-condensed liquid.[8][10]"
+    },
+    {
+      "type": "text",
+      "section": "Method of operation",
+      "content": "During distillation, the initial and final portions of spirit which condense (with the first portions termed the foreshots and heads and the final parts called the tails and feints) may be captured separately from that in the centre or \"heart\" of the distillation and may be discarded. This is because these portions of the distillate may contain high concentrations of congeners (which it may be desirable to keep out of the final distillate for reasons of style, taste and toxicity). For example, the presence of pectin in the wash (e.g., due to using a mash made from fruit) may result in the production of methanol (a.k.a. wood alcohol), which has a lower boiling point than ethanol and thus would be more concentrated in the foreshots. Methanol is toxic and at sufficient concentrations, it can cause blindness and fatal kidney failure. It is especially important to discard the initial foreshots, while a small amount of the near-centre heads and tails are often included in the final product for their effect on the flavour.[11][12]"
+    },
+    {
+      "type": "text",
+      "section": "History",
+      "content": "The modern pot still is a descendant of the alembic, an earlier distillation device."
+    },
+    {
+      "type": "text",
+      "section": "History",
+      "content": "The largest pot still ever used was in the Old Midleton Distillery, County Cork, Ireland.[13][14] Constructed in 1825, it had a capacity of 143,740 litres (31,618 imp gal) and is no longer in use. As of 2014 the largest pot stills in use are in the neighbouring New Midleton Distillery, County Cork, Ireland, and have a capacity of 75,000 L (16,000 imp gal).[15]"
+    },
+    {
+      "type": "text",
+      "section": "History",
+      "content": "Components of a traditional pot still:[7]"
+    }
+  ]
+}

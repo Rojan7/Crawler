@@ -1,0 +1,54 @@
+{
+  "page_id": 145,
+  "url": "https://en.wikipedia.org/wiki/Not_out",
+  "title": "Not out - Wikipedia",
+  "content": [
+    {
+      "type": "image",
+      "section": "",
+      "filename": "image_1156.jpg",
+      "caption": "No caption"
+    },
+    {
+      "type": "image",
+      "section": "Not out",
+      "filename": "image_1157.jpg",
+      "caption": "The scoreboard at Lord's during the Test match between England and New Zealand in 2013, showing Trent Boult as the Not Out batsman at the end of New Zealand's second innings."
+    },
+    {
+      "type": "text",
+      "section": "Not out",
+      "content": "In cricket, a batsman is not out if they come out to bat in an innings and have not been dismissed by the end of an innings.[1] The batsman is also not out while their innings is still in progress."
+    },
+    {
+      "type": "text",
+      "section": "Occurrence",
+      "content": "At least one batter is not out at the end of every innings, because once ten batters are out, the eleventh has no partner to bat on with, so the innings ends. Usually, two batters finish not out if the batting side declares in first-class cricket, and often at the end of the scheduled number of overs in limited overs cricket."
+    },
+    {
+      "type": "text",
+      "section": "Occurrence",
+      "content": "Batters further down the batting order than the not out batters do not come out to the crease at all and are noted as did not bat rather than not out;[2] by contrast, a batter who comes to the crease but faces no balls is not out.  A batter who retires hurt is considered not out; an uninjured batter who retires (rare) is considered retired out."
+    },
+    {
+      "type": "text",
+      "section": "Notation",
+      "content": "In standard notation a batter's score is appended with an asterisk to show the not out final status; for example, 10* means '10 not out'."
+    },
+    {
+      "type": "text",
+      "section": "Effect on batting averages",
+      "content": "Batting averages are personal and are calculated as runs divided by dismissals, so a player who often ends the innings not out may get an inflated batting average, on the face of it.[3] Examples of this include MS Dhoni (84 not outs in ODIs), Michael Bevan (67 not outs in ODIs), James Anderson (101 not outs in 237 Test innings), and Bill Johnston topping the batting averages on the 1953 Australian tour of England.[3]"
+    },
+    {
+      "type": "text",
+      "section": "Effect on batting averages",
+      "content": "Using the formula of runs divided by innings understates performance for the following reasons:"
+    },
+    {
+      "type": "text",
+      "section": "Effect on batting averages",
+      "content": "These counterbalancing elements have been at the heart of the rationale of keeping the existing formula (runs divided by dismissals) in the 21st century among cricket statisticians, who have used this method of collecting batting averages since the 18th century, after some intervening controversy.[citation needed]"
+    }
+  ]
+}
